@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am a student studying Electrical & Computer Engineering in Seoul National University.
 
 <!--
 **kimin-kwon/kimin-kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
